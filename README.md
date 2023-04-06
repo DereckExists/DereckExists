@@ -33,5 +33,5 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </h3>
 
-<h3 align="center">🏆 Trophies 🏆</h3>
+## 🏆 Trophies 🏆
 <img src="https://github-profile-trophy.vercel.app/?username=DereckExists&theme=nord" />
