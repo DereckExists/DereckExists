@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :confused:
+Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :confused:. Don't worry, i'll figure it out soon lmao
 
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -11,10 +11,13 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DereckExists&layout=compact&theme=nord" />
 </a>
 
-* :technologist: A guy who has tried a lot of programming languages and frameworks for fun
-* :sunglasses: A pro in Flutter & Native mobile development
-* :clock1: Works for 10 hours a day
-* :heart: Loves [Victor Mono](https://github.com/rubjo/victor-mono) font and [Catppuccin](https://github.com/catppuccin) theme
+* 🧑‍💻 A guy who has tried a lot of programming languages and frameworks for fun
+* 😎 A pro in Flutter & Native mobile development
+* ⏰ Works for 10 hours a day
+* ☕ A coffee fan, but doesn't drink coffee a lot
+* ❤️ Loves [Victor Mono](https://github.com/rubjo/victor-mono) font and [Catppuccin](https://github.com/catppuccin) theme
+* 📬 I always look at my mail. You can mail me!
+* 📖 Learning Japanese, Spanish & Italian
 
 ## 💙 Technologies 💙
 <h3>Programming Languages - Frameworks</h3>
