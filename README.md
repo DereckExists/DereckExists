@@ -13,6 +13,7 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
 
 * :technologist: A guy who has tried a lot of programming languages and frameworks for fun
 * :sunglasses: A pro in Flutter & Native mobile development
+* :heart: Loves [Victor Mono](https://github.com/rubjo/victor-mono) font and [Catppuccin](https://github.com/catppuccin) theme
 
 ## 💙 Technologies 💙
 <h3>Programming Languages - Frameworks</h3>
