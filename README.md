@@ -17,7 +17,8 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
 * ☕ A coffee fan, but doesn't drink coffee a lot
 * ❤️ Loves [Victor Mono](https://github.com/rubjo/victor-mono) font and [Catppuccin](https://github.com/catppuccin) theme
 * 📬 I always look at my mail. You can mail me!
-* 📖 Learning Japanese, Spanish & Italian
+* 📖 Learning Japanese, Spanish & Italian in my freetime
+* 🎵 Absolutely loves music, suggest new songs to me. I would love it!
 
 ## 💙 Technologies 💙
 <h3>Programming Languages - Frameworks</h3>
