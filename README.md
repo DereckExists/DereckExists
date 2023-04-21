@@ -8,7 +8,6 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
 ## :bulb: About
 <a href="https://www.github.com/DereckExists">
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DereckExists&show_icons=true&theme=nord" />
-  <img align="right" width="50%" src="https://streak-stats.demolab.com/?user=DereckSmith&theme=nord" />
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DereckExists&layout=compact&theme=nord" />
 </a>
 
