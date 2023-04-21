@@ -19,6 +19,7 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
 * 📬 I always look at my mail. You can mail me!
 * 📖 Learning Japanese, Spanish & Italian in my freetime
 * 🎵 Absolutely loves music, suggest new songs to me. I would love it!
+* 👬 FOSS is great, but it is not very popular tho... Seriously, give good names for FOSS projects
 
 ## 💙 Technologies 💙
 <h3>Programming Languages - Frameworks</h3>
