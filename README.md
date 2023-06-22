@@ -15,7 +15,7 @@ Hi, I'm Dereck Smith Elijah. A programmer who has no idea what he is doing :conf
 * 😎 A pro in Flutter & Native mobile development
 * ⏰ Works for 10 hours a day
 * ☕ A coffee fan, but doesn't drink coffee a lot
-* ❤️ Loves [Victor Mono](https://github.com/rubjo/victor-mono) font and [Catppuccin](https://github.com/catppuccin) theme
+* ❤️ Loves [Iosevka](https://github.com/be5invis/Iosevka) font and [Nord](https://github.com/nordtheme) theme
 * 📬 I always look at my mail. You can mail me!
 * 📖 Learning Japanese, Spanish & Italian in my freetime
 * 🎵 Absolutely loves music, suggest new songs to me. I would love it!
